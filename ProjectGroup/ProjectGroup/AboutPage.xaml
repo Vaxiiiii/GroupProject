@@ -1,0 +1,24 @@
+<Page x:Class="ProjectGroup.AboutPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:ProjectGroup"
+      mc:Ignorable="d"
+      Title="AboutPage">
+
+    <Grid Background="White">
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24">
+            <Run Text="About Developers"/>
+        </TextBlock>
+        <TextBlock Margin="20" TextWrapping="Wrap">
+            <Run Text="This application was developed by:"/>
+            <LineBreak/>
+            <Run Text="Ancheta Ruben"/>
+            <LineBreak/>
+            <Run Text="Villanueva Ray Justin"/>
+            <LineBreak/>
+            <Run Text="Jucar Jimmy Jr"/>
+        </TextBlock>
+    </Grid>
+</Page>

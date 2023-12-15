@@ -1,0 +1,21 @@
+<Window x:Class="ProjecGroup.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectGroup"
+        mc:Ignorable="d"
+        Title="Recipe Entry" Height="450" Width="800">
+    <Grid>
+        <Frame x:Name="MainNavigationFrame" NavigationUIVisibility="Hidden"/>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="Home" Click="Home_Click"/>
+                <MenuItem Header="Entry" Click="Entry_Click"/>
+                <MenuItem Header="About" Click="About_Click"/>
+                <MenuItem Header="Design" Click="Design_Click"/>
+            </Menu>
+        </DockPanel>
+    </Grid>
+</Window>
+

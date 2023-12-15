@@ -1,0 +1,7 @@
+C:\Users\ruben\source\repos\ProjectGroup\ProjectGroup\obj\Debug\net6.0-windows\AboutPage.g.cs
+C:\Users\ruben\source\repos\ProjectGroup\ProjectGroup\obj\Debug\net6.0-windows\EntryPage.g.cs
+C:\Users\ruben\source\repos\ProjectGroup\ProjectGroup\obj\Debug\net6.0-windows\HomePage.g.cs
+C:\Users\ruben\source\repos\ProjectGroup\ProjectGroup\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ruben\source\repos\ProjectGroup\ProjectGroup\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ruben\source\repos\ProjectGroup\ProjectGroup\obj\Debug\net6.0-windows\ProjectGroup_MarkupCompile.cache
+C:\Users\ruben\source\repos\ProjectGroup\ProjectGroup\obj\Debug\net6.0-windows\ProjectGroup_MarkupCompile.lref
